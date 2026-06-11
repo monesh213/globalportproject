@@ -23,8 +23,6 @@ CommandDescriptionnpm run devStart development servernpm run buildBuild for prod
 
 💻 Run Locally
 bashnpm run dev
-Open your browser and visit:
-http://localhost:5173
 
 🌐 Deployment
 This project is deployed on GitHub Pages.
