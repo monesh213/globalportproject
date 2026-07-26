@@ -1,8 +1,7 @@
 🌍 GlobalPort
 A modern, responsive web application built with React, Vite, and Tailwind CSS.
 
-🔗 Live Demo: https://monesh213.github.io/GlobalPort-project/
-
+🔗 Live Demo: https:https://monesh213.github.io/globalportproject/
 🚀 Tech Stack
 
 React 19 — UI library
