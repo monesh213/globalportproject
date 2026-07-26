@@ -1,7 +1,7 @@
 🌍 GlobalPort
 A modern, responsive web application built with React, Vite, and Tailwind CSS.
 
-🔗 Live Demo: https:https://monesh213.github.io/globalportproject/
+🔗 Live Demo: https
 🚀 Tech Stack
 
 React 19 — UI library
@@ -13,7 +13,7 @@ gh-pages — GitHub Pages deployment
 
 📦 Installation
 Clone the repository:
-bashgit clone https://github.com/monesh213/GlobalPort-project.git
+bashgit clone 
 cd GlobalPort-project
 Install dependencies:
 bashnpm install
